@@ -92,3 +92,5 @@ git tag -d 0.1.3
 ```ruby
 git push origin :refs/tags/0.1.3
 ```
+
+## [git stash详解](https://blog.csdn.net/stone_yw/article/details/80795669)
